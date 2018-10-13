@@ -3,7 +3,7 @@
 
 ## Overview
 
-This notebook contains code to build dog breed classifier model which classifies which to which breed a dog belongs to out of 120 breeds it it is trained to classify. The model acheives around 93% accuracy. Considering the high no. of classes. i.e 120, this model performes quite well.
+This notebook contains code to build dog breed classifier model which classifies to which breed a dog belongs to out of 120 breeds it it is trained to classify on. The model acheives around 93% accuracy. Considering the high no. of classes. i.e 120, this model performes quite well.
 
 ## Dependencies
 
